@@ -1,0 +1,10 @@
+D:\OneDrive\Teaching\SM3603-Fall\Src\W9_GestureBasics\GestureRecognizer\bin\Debug\GestureRecognizer.dll
+D:\OneDrive\Teaching\SM3603-Fall\Src\W9_GestureBasics\GestureRecognizer\bin\Debug\GestureRecognizer.pdb
+D:\OneDrive\Teaching\SM3603-Fall\Src\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.dll
+D:\OneDrive\Teaching\SM3603-Fall\Src\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.pdb
+D:\OneDrive\Teaching\SM3603-Fall\Src\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.csprojResolveAssemblyReference.cache
+F:\SM3603\W9_GestureBasics\W9_GestureBasics\GestureRecognizer\bin\Debug\GestureRecognizer.dll
+F:\SM3603\W9_GestureBasics\W9_GestureBasics\GestureRecognizer\bin\Debug\GestureRecognizer.pdb
+F:\SM3603\W9_GestureBasics\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.csprojResolveAssemblyReference.cache
+F:\SM3603\W9_GestureBasics\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.dll
+F:\SM3603\W9_GestureBasics\W9_GestureBasics\GestureRecognizer\obj\Debug\GestureRecognizer.pdb

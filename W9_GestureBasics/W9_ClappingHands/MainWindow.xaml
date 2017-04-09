@@ -1,0 +1,10 @@
+﻿<Window x:Class="W9_ClappingHands.MainWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cheerleading game" Height="520" Width="640" Loaded="Window_Loaded">
+    <Grid Height="480" Width="640">
+        <Image Height="480" HorizontalAlignment="Left" Name="skeletonImg" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+        <TextBlock Height="41" HorizontalAlignment="Left" Margin="181,439,0,0" Name="statusTxt" Text="Status " VerticalAlignment="Top" FontSize="20" Width="449" TextAlignment="Center" FontWeight="Bold" Foreground="White" />
+        <TextBlock Name="ScoreTxt" HorizontalAlignment="Left" Margin="10,439,0,-35" TextWrapping="Wrap" VerticalAlignment="Top" Height="76" Width="233" FontSize="24" Text="Score:" Foreground="White"/>
+    </Grid>
+</Window>
